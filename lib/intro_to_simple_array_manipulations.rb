@@ -41,5 +41,3 @@ def using_uniq(array)
   unique_array = array.uniq
   unique_array
 end
-
-  
